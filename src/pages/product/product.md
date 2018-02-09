@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 path: /products
-title: My Products
+title: My ProductsASDASD
 image: /img/jumbotron.jpg
 heading: What we offer
 description: >-
