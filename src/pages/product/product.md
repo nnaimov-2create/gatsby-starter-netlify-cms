@@ -39,7 +39,7 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
     - image: /img/coffee-gear.png
-      text: Nikola gi razbira
+      text: This is content
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
